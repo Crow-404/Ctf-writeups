@@ -2,7 +2,7 @@
 
 **Authored by:** crow
 
-website:[https://ctfguide.com/challenges/2860b99e-d07b-4620-abe5-37fef4a32faf/description](https://ctfguide.com/challenges/2860b99e-d07b-4620-abe5-37fef4a32faf/description)
+website:[SNEAKY Cat CTF](https://ctfguide.com/challenges/2860b99e-d07b-4620-abe5-37fef4a32faf)
 
 ## Challenge Description
 
