@@ -32,5 +32,5 @@ If you have alternative solutions, improvements, or insights, feel free to open 
 
 ## Contact
 
-For discussions or queries, connect with me on LinkedIn or Twitter (links in profile).
+For discussions or queries, connect with me on Twitter ([links in profile](https://x.com/crow48s)).
 
