@@ -33,9 +33,11 @@ This challenge explores how attackers can use PowerShell and Windows Registry mo
 ### Task 2
 
 **Question:** Which PowerShell command did the attacker first execute to disable Windows Defender?
-
+ 
 **Answer:**
 Set-MpPreference -DisableIOAVProtection $true -DisableEmailScanning $true -DisableBlockAtFirstSeen $true
+
+---
 
 Task 3
 Question: The attacker loaded an AMSI patch written in PowerShell. Which function in the DLL is being patched by the script to effectively disable AMSI?
@@ -43,13 +45,20 @@ Question: The attacker loaded an AMSI patch written in PowerShell. Which functio
 **Answer:**
 AmsiScanBuffer
 
+---
+
 Task 4
 Question: Which command did the attacker use to restart the machine in Safe Mode?
 
 **Answer:**
 bcdedit.exe /set safeboot network
+
+---
+
 Task 5
 Question: Which PowerShell command did the attacker use to disable PowerShell command history logging?
 
 Answer:
 Set-PSReadlineOption -HistorySaveStyle SaveNothing
+
+---
