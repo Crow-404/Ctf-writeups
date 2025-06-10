@@ -1,36 +1,54 @@
-# CTF Write-Ups 📌
+# CTF Write-Ups
 
 ## About
 
-This repository contains my write-ups for Digital Forensics & Incident Response (DFIR), Threat Intelligence, and SOC-related Capture The Flag (CTF) challenges. Each write-up includes a detailed breakdown of the investigative techniques, tools used, and methodologies applied to solve the challenges.
+This repository contains my personal write-ups for Capture The Flag (CTF) challenges, with a focus on:
+
+- Digital Forensics & Incident Response (DFIR)
+- Threat Intelligence
+
+Each write-up includes a detailed explanation of the challenge, the investigation process, tools used, and lessons learned throughout the analysis.
+
+---
 
 ## Categories
 
-- 🕵️ **DFIR** – Memory forensics, disk analysis, log analysis, malware investigations.
-- 🌐 **Threat Intelligence** – OSINT challenges, APT tracking, threat attribution.
-- 🔍 **SOC Challenges** – Log analysis, SIEM investigations, incident handling.
+- **DFIR** – Memory forensics, disk and registry analysis, log review, and malware investigation  
+- **Threat Intelligence** – OSINT challenges, APT tracking, and threat actor attribution  
+
+---
 
 ## Structure
 
-Each write-up is organized as follows:
+Each write-up typically includes the following sections:
 
-- **Challenge Name:** Description of the challenge.
-- **Category:** (DFIR, Threat Intel, SOC, etc.)
-- **Approach:** Step-by-step solution methodology.
-- **Tools Used:** List of tools and commands.
-- **Lessons Learned:** Key takeaways from solving the challenge.
+- **Challenge Name**: Title and a short description  
+- **Category**: DFIR or Threat Intelligence  
+- **Approach**: Step-by-step walkthrough of the solution  
+- **Tools Used**: List of tools, scripts, and commands  
+- **Lessons Learned**: Key takeaways and insights  
+
+---
 
 ## How to Use
 
-- Browse the repository and select a challenge.
-- Read through the methodology and try to replicate the solution.
-- Learn from different analysis techniques and tools.
+1. Browse the repository and choose a challenge.  
+2. Read through the methodology and understand the solution.  
+3. Try replicating the steps in your own lab environment.  
+4. Learn new techniques, tools, and analysis methods.
+
+Whether you're practicing for a competition or strengthening your defensive skills, these write-ups aim to be a helpful reference.
+
+---
 
 ## Contributions & Feedback
 
-If you have alternative solutions, improvements, or insights, feel free to open an issue or a pull request. Let's collaborate and grow together! 🚀
+If you have suggestions, alternative solutions, or improvements, feel free to open an issue or submit a pull request.
+
+Let's build and learn together.
+
+---
 
 ## Contact
 
-For discussions or queries, connect with me on Twitter ([links in profile](https://x.com/crow48s)).
-
+For questions, feedback, or collaboration, feel free to connect via Twitter ([link in profile](https://x.com/crow48s)).
